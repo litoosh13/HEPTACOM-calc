@@ -1,2 +1,2 @@
 # HEPTACOM-calc
-a challeng by HEPTACOM
+a challenge by HEPTACOM
